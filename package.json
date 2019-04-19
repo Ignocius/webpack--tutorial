@@ -1,0 +1,27 @@
+{
+  "name": "webpack--tutorial",
+  "version": "1.0.0",
+  "description": "webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ignocius/webpack--tutorial.git"
+  },
+  "keywords": [
+    "webpack"
+  ],
+  "author": "Ignocius\\",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ignocius/webpack--tutorial/issues"
+  },
+  "homepage": "https://github.com/Ignocius/webpack--tutorial#readme",
+  "dependencies": {
+    "webpack": "^4.30.0",
+    "webpack-cli": "^3.3.0",
+    "webpack-dev-server": "^3.3.1"
+  }
+}
